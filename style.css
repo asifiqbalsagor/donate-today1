@@ -40,6 +40,7 @@ h3{
 .donate-today{
      border: 2px solid red;
      background-color: pink;
+     
 }
 .p-center{
      margin-left: 29%;
@@ -51,6 +52,44 @@ h3{
 hr{
      width: 73%;
      margin-left: 1%;
-     margin-bottom: 35px;
-     
+     margin-bottom: 35px;  
 }
+.donate-plan{
+     text-align: center;
+     margin-top: 100px;
+}
+.card-parent{
+     display: flex;
+}
+.card1 img{
+     width: 80px; 
+}
+.card2 img{
+     width: 70px;
+}
+.card3 img{
+     width: 60px;
+}
+.card1{
+     margin-top: 50px;
+     margin-left: 110px;
+     background-color: rgb(228, 251, 251);
+     text-align: left;
+     padding: 40px 20px 5px 20px;
+}
+.card2{
+     margin-top: 50px;
+     margin-left: 30px;
+     background-color: rgb(247, 236, 238);
+     text-align: left;
+     padding: 40px 20px 5px 20px;
+}
+.card3{
+     margin-top: 50px;
+     margin-left: 30px;
+     margin-right: 15px;
+     background-color: rgb(250, 250, 210);
+     text-align: left;
+     padding: 40px 20px 5px 20px;
+}
+
