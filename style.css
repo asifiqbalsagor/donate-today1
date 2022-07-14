@@ -11,7 +11,7 @@ body{
 .container{
      color: white;
      text-align: center;
-     padding: 35px;
+     padding: 30px;
 }
 .h1-style{
      font-size: 30px;
@@ -23,4 +23,34 @@ body{
      padding: 5px 15px;
      border-radius: 5px;
      color: white;
+}
+.donate-center{
+     text-align: center;
+     padding: 30px;
+}
+h3{
+     display: inline-block;
+     margin-left:10px;
+     background-color: azure;
+     padding: 30px;
+}
+.h3-margin{
+     margin-left: 20%;
+}
+.donate-today{
+     border: 2px solid red;
+     background-color: pink;
+}
+.p-center{
+     margin-left: 29%;
+}
+.a-center{
+     margin-left: 31%;
+     margin-top: 10px;
+}
+hr{
+     width: 73%;
+     margin-left: 1%;
+     margin-bottom: 35px;
+     
 }
