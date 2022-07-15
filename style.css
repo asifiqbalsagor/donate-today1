@@ -92,4 +92,33 @@ hr{
      text-align: left;
      padding: 40px 20px 5px 20px;
 }
+.section3-container{
+     display: flex;
+     margin-top: 100px;
+}
+.section3-article{
+     text-align: justify;
+     margin-left: 100px;
+     margin-right: 60px;
+}
+.section3-img{
+     width: 90%;
+     height: 110%;
+     margin-right: 50px;
+}
+.section4-container{
+     display: flex;
+     margin-top: 100px;
+}
+.section4-img{
+     width: 75%;
+     height: 110%;
+     margin-left: 100px;
+}
+.section4-article{
+     text-align: justify;
+     margin-right: 40px;
+     margin-left: 20px;
+}
+
 
